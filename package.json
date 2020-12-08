@@ -1,0 +1,23 @@
+{
+  "name": "proxy_farmer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pr0grara/proxy-farmer.git"
+  },
+  "author": "Adam Melks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pr0grara/proxy-farmer/issues"
+  },
+  "homepage": "https://github.com/pr0grara/proxy-farmer#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0",
+    "puppeteer-page-proxy": "^1.2.8"
+  }
+}
